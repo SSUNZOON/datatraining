@@ -1,0 +1,7 @@
+pandas 
+sqlalchemy
+psycopg2-binary
+xmltodict
+requests
+fastapi
+uvicorn
